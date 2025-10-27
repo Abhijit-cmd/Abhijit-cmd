@@ -1,25 +1,5 @@
-<!-- Animated Gradient Header -->
-<p align="center">
-  <svg viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="gradient">
-        <stop offset="0%" stop-color="#3a8296">
-          <animate attributeName="offset" values="0;1;0" dur="4s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="100%" stop-color="#0ea5e9">
-          <animate attributeName="offset" values="1;0;1" dur="4s" repeatCount="indefinite" />
-        </stop>
-      </linearGradient>
-    </defs>
-    <text x="50%" y="70%" text-anchor="middle" fill="url(#gradient)" font-size="48" font-family="Segoe UI, sans-serif" font-weight="bold">
-      Hi, I'm Abhijit Deb
-    </text>
-  </svg>
-</p>
-
-<p align="center">
-  <strong>Software Engineer | Problem Solver | AI Enthusiast</strong>
-</p>
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Abhijit%20Deb&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Software%20Engineer%20|%20Problem%20Solver%20|%20AI%20Enthusiast&descSize=27&descAlignY=85&section=header" />
 
 ---
 
@@ -30,7 +10,7 @@ I enjoy building interactive web applications and exploring intelligent, elegant
 
 ---
 
-<!-- Responsive Coding GIF -->
+<!-- Responsive container for GIF -->
 <div align="center">
   <img alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" style="max-width: 100%; height: auto; border-radius: 10px;" />
 </div>
