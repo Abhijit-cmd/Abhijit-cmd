@@ -27,7 +27,7 @@ I enjoy building interactive web applications and exploring intelligent, elegant
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,html,css,react,flask,tensorflow,pytorch" />
+    <img src="https://skillicons.dev/icons?i=python,js,html,css,react,flask,tensorflow" />
   </a>
 </p>
 
