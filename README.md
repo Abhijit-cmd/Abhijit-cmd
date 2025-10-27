@@ -44,7 +44,7 @@ I enjoy building interactive web applications and exploring intelligent, elegant
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,linux,figma" />
   </a>
 </p>
 
