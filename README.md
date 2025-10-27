@@ -27,7 +27,14 @@ I enjoy building interactive web applications and exploring intelligent, elegant
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,html,css,react,flask,ml" />
+    <img src="https://skillicons.dev/icons?i=python,js,html,css,react,flask,tensorflow,pytorch" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20|%20ML-0ea5e9?style=flat&logo=OpenAI&logoColor=white" />
+</p>
+
   </a>
 </p>
 
