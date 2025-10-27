@@ -14,29 +14,30 @@ I enjoy building interactive web applications and exploring intelligent, elegant
 
 ### 📬 Connect with Me
 
-[![Mail Badge](https://img.shields.io/badge/-abhijitdeb063@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:abhijitdeb063@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-Abhijit%20Deb-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijit-deb/)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-0ea5e9?style=flat&labelColor=0ea5e9&logo=vercel&logoColor=white)](https://abhijitdeb.github.io/)
-[![Instagram Badge](https://img.shields.io/badge/-@abhijit__deb-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://www.instagram.com/abhijit__deb/)
-[![Discord Badge](https://img.shields.io/badge/-Abhijit-5865f2?style=flat&labelColor=5865f2&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)
-[![](https://komarev.com/ghpvc/?username=abhijitdeb&color=blue&label=Profile%20Views)](https://github.com/abhijitdeb)
-[![](https://img.shields.io/github/followers/abhijitdeb?label=GitHub%20Followers)](https://github.com/abhijitdeb)
+[![Gmail Badge](https://img.shields.io/badge/-abhijitdeb063@gmail.com-dc2626?style=flat&logo=gmail&logoColor=white)](mailto:abhijitdeb063@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-Abhijit%20Deb-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-deb)
+[![Instagram Badge](https://img.shields.io/badge/-_abhi___jit__-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_abhi___jit__/)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-0EA5E9?style=flat&logo=vercel&logoColor=white)](https://abhijitdeb.github.io/)
+![](https://komarev.com/ghpvc/?username=Abhijit-cmd&color=0EA5E9&label=Profile%20Views)
+[![](https://img.shields.io/github/followers/Abhijit-cmd?label=GitHub%20Followers)](https://github.com/Abhijit-cmd)
 
 ---
 
 ### 🧠 Skills
-<p align="center">
+
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,react,nodejs,flask,tailwind&theme=light" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,react,nodejs,flask,tailwind" />
   </a>
 </p>
 
 ---
 
 ### ⚙️ Tools
-<p align="center">
+
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,firebase,linux&theme=light" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,firebase,linux" />
   </a>
 </p>
 
