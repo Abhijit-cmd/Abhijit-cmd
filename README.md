@@ -6,13 +6,13 @@
 I'm **Abhijit Deb**, a passionate Computer Science student and developer interested in **AI, Machine Learning, and Full Stack Development**.  
 I enjoy building interactive web applications and exploring intelligent, elegant solutions.
 
-💡 *“Crafting logic and elegance in every line of code.”*
+ *“Crafting logic and elegance in every line of code.”*
 
 ---
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-### 📬 Connect with Me
+###  Connect with Me
 
 [![Gmail Badge](https://img.shields.io/badge/-abhijitdeb063@gmail.com-dc2626?style=flat&logo=gmail&logoColor=white)](mailto:abhijitdeb063@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-Abhijit%20Deb-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-deb)
@@ -23,11 +23,11 @@ I enjoy building interactive web applications and exploring intelligent, elegant
 
 ---
 
-### 🧠 Skills
+###  Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,html,css,react,flask" />
+    <img src="https://skillicons.dev/icons?i=python,js,html,css,react,flask,ml" />
   </a>
 </p>
 
