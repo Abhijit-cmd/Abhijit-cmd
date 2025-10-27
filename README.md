@@ -19,7 +19,7 @@ I enjoy building interactive web applications and exploring intelligent, elegant
 [![Instagram Badge](https://img.shields.io/badge/-_abhi___jit__-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_abhi___jit__/)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-0EA5E9?style=flat&logo=vercel&logoColor=white)](https://abhijitdeb.github.io/)
 ![](https://komarev.com/ghpvc/?username=Abhijit-cmd&color=0EA5E9&label=Profile%20Views)
-[![](https://img.shields.io/github/followers/Abhijit-cmd?label=GitHub%20Followers)](https://github.com/Abhijit-cmd)
+
 
 ---
 
