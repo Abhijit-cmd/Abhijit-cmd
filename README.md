@@ -10,7 +10,12 @@ I enjoy building interactive web applications and exploring intelligent, elegant
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<!-- Responsive container for GIF -->
+<div align="center">
+  <img alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" style="max-width: 100%; height: auto; border-radius: 10px;" />
+</div>
+
+---
 
 ### 📬 Connect with Me
 
@@ -24,20 +29,18 @@ I enjoy building interactive web applications and exploring intelligent, elegant
 ---
 
 ### 🧠 Skills
-
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<p align="center" style="margin-top: 20px;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,react,nodejs,flask,tailwind" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,react,nodejs,flask,tailwind" style="max-width: 100%;" />
   </a>
 </p>
 
 ---
 
 ### ⚙️ Tools
-
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<p align="center" style="margin-top: 20px;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,firebase,linux" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,firebase,linux" style="max-width: 100%;" />
   </a>
 </p>
 
