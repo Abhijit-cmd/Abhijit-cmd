@@ -17,7 +17,7 @@ I enjoy building interactive web applications and exploring intelligent, elegant
 [![Gmail Badge](https://img.shields.io/badge/-abhijitdeb063@gmail.com-dc2626?style=flat&logo=gmail&logoColor=white)](mailto:abhijitdeb063@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-Abhijit%20Deb-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-deb)
 [![Instagram Badge](https://img.shields.io/badge/-_abhi___jit__-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_abhi___jit__/)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-0EA5E9?style=flat&logo=vercel&logoColor=white)](https://abhideb-portfolio.netlify.app/)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-0EA5E9?style=flat&logo=vercel&logoColor=white)]((https://abhijitdeb.vercel.app/)
 
 ![](https://komarev.com/ghpvc/?username=Abhijit-cmd&color=0EA5E9&label=Profile%20Views)
 
